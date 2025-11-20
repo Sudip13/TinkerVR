@@ -3,12 +3,18 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-  tags: []
+  tags:
+  - QDSUIIcon
+  - QDSUITextSecondaryColor
+  - QDSUIToggleButton
+  - QDSUITooltip
+  - QDSUIToggleBorderlessButton
+  - QDSUIBackplateGradient
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Overlay UI
   - Water
   - UI
   - 
@@ -36,7 +42,7 @@ TagManager:
   - 
   - 
   - 
-  - 
+  - OVROverlayCanvas Rendering
   m_SortingLayers:
   - name: Default
     uniqueID: 0
